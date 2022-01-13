@@ -1,5 +1,5 @@
 # Currently Learning 👇🏻
-## Redis, GraphQL
+## Redis, GraphQL, Firebase Backend Security Rules...
 
 # Deployed Project Links 👇🏻
 
