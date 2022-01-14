@@ -23,6 +23,8 @@ Tesla Clone - https://tesla-clone-001.netlify.app/
 
 Pinterest Clone - https://pinterest-clone-001abhi.netlify.app/
 
+Github API Project Info Catcher (React Native) - https://www.youtube.com/watch?v=D-rokQn3WRw
+
 
 
 
