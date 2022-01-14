@@ -9,7 +9,7 @@ Spotify Clone - https://spotify-clone-e93b9.web.app/ (hosted on firebase)
 
 Slack Clone - https://slack-clone-00001.firebaseapp.com/ (hosted on firebase)
 
-Webcam to Train and Deploy Hand-Sign Recognition All in Browser - https://www.youtube.com/watch?v=BGfSsugl-_8
+Webcam to Train and Deploy Hand-Sign Recognition in Browser - https://www.youtube.com/watch?v=BGfSsugl-_8
 
 ZOMATO UI APP Clone - https://www.youtube.com/watch?v=RMwmN4j0s5s
 
