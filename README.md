@@ -1,5 +1,7 @@
 # Deployed Project Links 👇🏻
 
+Tinder Clone - https://www.youtube.com/watch?v=PdPoZLLXtUY
+
 Netflix Clone - https://netflix-clone-77572.web.app/ (hosted on firebase)
 
 Spotify Clone - https://spotify-clone-e93b9.web.app/ (hosted on firebase)
@@ -19,6 +21,8 @@ Corporate Page with NavBar and DropDown Navigation - https://dropdown-navbar-lea
 Tesla Clone - https://tesla-clone-001.netlify.app/
 
 Pinterest Clone - https://pinterest-clone-001abhi.netlify.app/
+
+LinkedIn Clone - https://linkedin-clone-abhi.web.app/
 
 Github API Project Info Catcher (React Native) - https://www.youtube.com/watch?v=D-rokQn3WRw
 
